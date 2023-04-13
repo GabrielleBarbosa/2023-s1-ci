@@ -91,4 +91,3 @@ $ cd 2023-s1-ci
 $ docker build -t simple_web_app .
 $ docker run --rm -p 8000:80 simple_web_app
 ````
-
